@@ -1,3 +1,4 @@
+# ARCHIVOS DE ANCHO FIJO
 
 # Id_persona  |  tipo  |  Fecha y hora
 
