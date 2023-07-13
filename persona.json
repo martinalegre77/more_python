@@ -1,0 +1,16 @@
+{
+    "nombre": "Bruno",
+    "apellido": "Diaz",
+    "hobbies": ["escalar", "base jump", "batman"],
+    "hijos": [
+        {
+            "nombre": "Helena",
+            "edad": 18
+        },
+        {
+            "nombre": "Damian",
+            "edad": 13
+        }
+    ]
+}
+
